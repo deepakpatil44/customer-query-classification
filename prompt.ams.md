@@ -6,7 +6,15 @@ Where is my order?
 
 Delivery
 
-How much is the shipping fee?
+When will my package arrive?
+
+Delivery
+
+How much do you charge for shipping?
+
+Shipping
+
+Can I track my shipment?
 
 Shipping
 
@@ -14,7 +22,15 @@ I haven't received my refund.
 
 Refund
 
+My refund is taking too long.
+
+Refund
+
 My credit card payment failed.
+
+Payment
+
+I was charged twice for one order.
 
 Payment
 
@@ -26,7 +42,15 @@ The product I received is broken.
 
 Defect
 
-How can I return this item?
+My headphones are not working.
+
+Defect
+
+How can I return this product?
+
+Return
+
+I want to exchange my shirt for another size.
 
 Return
 
@@ -34,10 +58,11 @@ I forgot my account password.
 
 Account
 
-Can you recommend a good laptop?
+I cannot log in to my account.
+
+Account
+
+Can you recommend a good smartphone?
 
 Unknown
-
-Key advantage: This prompt enforces a single-label classification system, handles ambiguous queries, and ensures the output is always one of the nine predefined category names without additional text.
-
 
